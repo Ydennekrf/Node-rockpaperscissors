@@ -1,0 +1,1 @@
+This is a basic exercise from codecademy that uses the rock paper scissors JS code and runs it through node.js for a http application 
